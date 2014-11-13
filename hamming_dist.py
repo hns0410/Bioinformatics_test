@@ -1,6 +1,6 @@
 """Script to find Hamming distance"""
 #Himanshu Sharma 11/08/14
-
+#For learning git and for fun
 
 def hammingdist(str1,str2) :
 
